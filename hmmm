@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>IDK</title>
+    </head>
+
+    <body>
+        <p>Visual Studio Is a App that can be used for many coding languages</p>
+        <div><p>Console is too store information in a place and records stuff you put in it</p></div>
+        <script>
+            var first = "Sanay";
+            var last = "Dhote";
+            console.log(first)
+            console.log(last)
+
+            var a = 5;
+            var b = 15;
+            console.log(a)
+            console.log(b)
+
+            var name = first.contact(last)
+            console.log(name)
+
+            var ab = a + b
+            console.log(ab)
+        </script>
+
+    </body>    
+
+</html>
